@@ -1,6 +1,6 @@
 
 .image{
-  background-image: url('./assets/kusa.JPG');
+  background-image: url('./assets/kusa.png');
   /*バックグラウンドをリピートをなくす*/
   background-repeat: no-repeat;
   /*バックグラウンドを中央に配置する*/
