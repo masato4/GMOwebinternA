@@ -297,26 +297,26 @@ const LogedIn = ({ token, user, setToken, userName }) => {
               </Button>
             </div>
 
-          
+
             <Segmented />
 
             {/* <div className="mt-20">
               <GithubCalendar />
             </div> */}
-           
-          </div>
-        
-          
-         
+
+          {/* </div> */}
+
+
+
           {/* <div className="flex flex-col h-">wwwwwwwwwww</div> */}
             <ReactCanvasConfetti
               refConfetti={getInstance}
               style={canvasStyles}
             />
-        </div>
 
 
-            
+
+
           </div>
         </Container>
 
